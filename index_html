@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Hobby: Desenhar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f1f1f1;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+            margin-top: 20px;
+        }
+
+        p {
+            color: #555;
+            font-size: 1.2em;
+            margin: 20px auto;
+            width: 80%;
+        }
+
+        img {
+            width: 60%;
+            max-width: 500px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Meu Hobby: Desenhar</h1>
+
+    <!-- Imagem 1 -->
+    <img src="https://via.placeholder.com/500x300?text=Desenho" alt="Desenho artístico">
+
+    <p>Eu adoro desenhar, principalmente retratos. Desenhar me ajuda a expressar minhas ideias e a relaxar.</p>
+
+    <!-- Imagem 2 -->
+    <img src="https://via.placeholder.com/500x300?text=Materiais+de+Desenho" alt="Materiais de desenho">
+
+    <p>Meus materiais favoritos são lápis e papel, mas também gosto de experimentar diferentes tipos de tinta e carvão.</p>
+
+</body>
+</html>
 
